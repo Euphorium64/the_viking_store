@@ -1,4 +1,9 @@
-
+.navbar {
+  height: 40px;
+  max-width: 980px;
+  font-size: 16px;
+  display: block;
+}
 
 
 
