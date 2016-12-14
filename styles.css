@@ -1,12 +1,27 @@
 .navbar {
   height: 40px;
   max-width: 980px;
-  font-size: 16px;
-  display: block;
+  font: 18px "Comic Sans", Arial, sans-serif;
 }
 
+.left-section {
+  display: inline-block;
+  float: left;
+  padding: 10px 0 10px 80px;
+  height: 20px;
+}
 
+.right-section {
+  display: inline-block;
+  float: right;
+  height: 20px;
+}
 
+img.cart {
+  width: 30px;
+  padding-top: 5px;
+  display: inline-block;
+}
 
 
 
