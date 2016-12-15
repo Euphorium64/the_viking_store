@@ -1,31 +1,45 @@
 .navbar {
   height: 40px;
-  max-width: 980px;
-  font: 18px "Comic Sans", Arial, sans-serif;
+  min-width: 720px;
+  max-width: 960px;
+  font: 17px "Comic Sans", Arial, sans-serif;
+  letter-spacing: 1px;
 }
 
 .left-section {
   display: inline-block;
   float: left;
-  padding: 10px 0 10px 80px;
-  height: 20px;
+  margin: 11px 0 0 100px;
+  height: 40px;
 }
 
 .right-section {
   display: inline-block;
   float: right;
-  height: 20px;
+  margin: 5px 100px 0 0;
+  height: 40px;
+  font-size: 14px;
 }
 
-img.cart {
-  width: 30px;
-  padding-top: 5px;
+.rs-text {
+  float: left;
+  margin-top: 6px;
+}
+
+.cart {
   display: inline-block;
+  float: left;
+  margin-right: 10px;
 }
 
+div.cart img {
+  width: 30px;
+}
 
-
-
+a {
+  text-decoration: none;
+  color: #000;
+}
 
 
 
