@@ -1,3 +1,6 @@
+/*Navigation bar stylying*/
+
+
 .navbar {
   height: 40px;
   min-width: 720px;
@@ -36,7 +39,7 @@ div.cart img {
   width: 30px;
 }
 
-a {
+nav a {
   text-decoration: none;
   color: #000;
 }
