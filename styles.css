@@ -1,6 +1,5 @@
 /*Navigation bar stylying*/
 
-
 .navbar {
   height: 40px;
   min-width: 720px;
@@ -44,9 +43,16 @@ nav a {
   color: #000;
 }
 
+/*Logo styling*/
 
+.logo img {
+  height: auto;
+  max-width: 100%;
+}
 
-
+body {
+  max-width: 960px;
+}
 
 
 
