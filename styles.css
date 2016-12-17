@@ -4,7 +4,7 @@
   height: 40px;
   min-width: 720px;
   max-width: 100%;
-  font: 17px "Comic Sans", Arial, sans-serif;
+  font: 16px "Comic Sans", Arial, sans-serif;
   letter-spacing: 1px;
 }
 
@@ -20,7 +20,7 @@
   float: right;
   margin: 5px 100px 0 0;
   height: auto;
-  font-size: 14px;
+  font-size: 13px;
 }
 
 .rs-text {
@@ -43,7 +43,7 @@ nav a {
   color: #000;
 }
 
-/*Logo and body styling*/
+/*Logo, titles, and body styling*/
 
 .logo img {
   height: auto;
@@ -56,7 +56,7 @@ body {
 }
 
 .logo-title {
-  height: 80px;
+  height: 90px;
   text-align: center;
   background-color: #333;
 }
@@ -64,8 +64,32 @@ body {
 .logo-title p {
   color: #FFF;
   font: 24px "Comic Sans", Arial, sans-serif;
-  padding-top: 25px;
+  padding-top: 30px;
 }
+
+.alt-title {
+  height: 40px;
+}
+
+.alt-title p {
+  color: #A1A2A4;
+  font: 17px "Comic Sans", Arial, sans-serif;
+  text-align: center;
+  padding-top: 9px;
+  font-style: italic;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
