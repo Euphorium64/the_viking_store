@@ -43,20 +43,29 @@ nav a {
   color: #000;
 }
 
-/*Logo styling*/
+/*Logo and body styling*/
 
 .logo img {
   height: auto;
   max-width: 100%;
+  margin-bottom: -3.33px;
 }
 
 body {
   max-width: 960px;
 }
 
+.logo-title {
+  height: 80px;
+  text-align: center;
+  background-color: #333;
+}
 
-
-
+.logo-title p {
+  color: #FFF;
+  font: 24px "Comic Sans", Arial, sans-serif;
+  padding-top: 25px;
+}
 
 
 
