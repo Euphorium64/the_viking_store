@@ -3,7 +3,7 @@
 .navbar {
   height: 40px;
   min-width: 720px;
-  max-width: 960px;
+  max-width: 100%;
   font: 17px "Comic Sans", Arial, sans-serif;
   letter-spacing: 1px;
 }
@@ -12,14 +12,14 @@
   display: inline-block;
   float: left;
   margin: 11px 0 0 100px;
-  height: 40px;
+  height: auto;
 }
 
 .right-section {
   display: inline-block;
   float: right;
   margin: 5px 100px 0 0;
-  height: 40px;
+  height: auto;
   font-size: 14px;
 }
 
