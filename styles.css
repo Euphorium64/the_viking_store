@@ -6,6 +6,8 @@
   max-width: 100%;
   font: 16px "Comic Sans", Arial, sans-serif;
   letter-spacing: 1px;
+  border-left: 5px solid #000;
+  border-right: 5px solid #000;
 }
 
 .left-section {
@@ -47,6 +49,8 @@ nav a {
 
 .logo {
   min-width: 720px;
+  border-left: 5px solid #000;
+  border-right: 5px solid #000;
 }
 
 .logo img {
@@ -86,6 +90,8 @@ body {
 
 .alt-title {
   height: 40px;
+  border-left: 5px solid #A1A2A4;
+  border-right: 5px solid #A1A2A4;
   border-bottom: 2px solid #A1A2A4;
   min-width: 720px;
 }
