@@ -82,13 +82,20 @@ body {
 
 /*Main content*/
 
+.main-content img {
+  width: 100px;
+}
 
+.main-content div {
+  width: 30%;
+  display: inline-block;
+  vertical-align: top;
+  margin: 20px 1.5% 10px 1.5%;
+}
 
-
-
-
-
-
+.main-content {
+  margin: 0 7.5% 0 7.5%;
+}
 
 
 
