@@ -55,8 +55,20 @@ nav a {
   margin-bottom: -3.33px;
 }
 
+html, body {
+  height: 100%;
+}
+
+html {
+  display: table;
+  margin: auto;
+}
+
 body {
+  display: table-cell;
   max-width: 960px;
+  text-align: center;
+  vertical-align: middle;
 }
 
 .logo-title {
@@ -102,6 +114,7 @@ body {
 .main-content {
   margin: 0 7.5% 0 7.5%;
   min-width: 720px;
+  height: 625px;
 }
 
 
