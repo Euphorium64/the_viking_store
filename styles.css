@@ -6,8 +6,8 @@
   max-width: 100%;
   font: 16px "Comic Sans", Arial, sans-serif;
   letter-spacing: 1px;
-  border-left: 5px solid #000;
-  border-right: 5px solid #000;
+  border-left: 2px solid #000;
+  border-right: 2px solid #000;
 }
 
 .left-section {
@@ -49,8 +49,8 @@ nav a {
 
 .logo {
   min-width: 720px;
-  border-left: 5px solid #000;
-  border-right: 5px solid #000;
+  border-left: 2px solid #000;
+  border-right: 2px solid #000;
 }
 
 .logo img {
@@ -79,7 +79,8 @@ body {
   height: 90px;
   min-width: 720px;
   text-align: center;
-  background-color: #333;
+  background-color: #2d2d2d;
+  letter-spacing: 1px;
 }
 
 .logo-title p {
@@ -90,8 +91,8 @@ body {
 
 .alt-title {
   height: 40px;
-  border-left: 5px solid #A1A2A4;
-  border-right: 5px solid #A1A2A4;
+  border-left: 2px solid #A1A2A4;
+  border-right: 2px solid #A1A2A4;
   border-bottom: 2px solid #A1A2A4;
   min-width: 720px;
 }
@@ -111,11 +112,11 @@ body {
 }
 
 .main-content div {
-  width: 25%;
+  width: 200px;
   height: 220px;
   display: inline-block;
   vertical-align: top;
-  margin: 20px 10px 0 10px;
+  margin: 20px 7.5px 0 7.5px;
 }
 
 .main-content {
@@ -128,7 +129,7 @@ table {
 }
 
 th {
-  background-color: #333;
+  background-color: #2d2d2d;
   color: #FFF;
   font: 14px "Comic Sans", Arial, sans-serif;
   height: 28px;
@@ -138,7 +139,7 @@ th {
 }
 
 .button {
-  background-color: #333;
+  background-color: #2d2d2d;
   height: 28px;
   border: 2px solid #000;
   vertical-align: middle;
