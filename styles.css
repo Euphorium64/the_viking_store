@@ -127,7 +127,13 @@ table {
   width: 100%;
 }
 
-
+table th {
+  background-color: #333;
+  color: #FFF;
+  font: 14px "Comic Sans", Arial, sans-serif;
+  height: 30px;
+  vertical-align: middle;
+}
 
 
 
