@@ -177,6 +177,21 @@ button {
   margin: 0 7px 0 7px;
 }
 
+/*Footer*/
+
+footer {
+  background-color: #2d2d2d;
+  width: 100%;
+  height: 90px;
+}
+
+footer p {
+  font: 12px "Comic Sans", Arial, sans-serif;
+  color: #F5A860;
+}
+
+
+
 
 
 
