@@ -119,6 +119,22 @@ body {
   margin: 20px 6.5px 0 6.5px;
 }
 
+.prices {
+  font: 11px "Comic Sans", Arial, sans-serif;
+  width: 50px;
+  height: 18px;
+  display: inline-block;
+  position: relative;
+  top: 52px;
+  right: -75px;
+  background-color: #FFF;
+  border: 2px solid black;
+}
+
+.prices p {
+  padding-top: 3px;
+}
+
 .main-content {
   min-width: 720px;
   height: 550px;
