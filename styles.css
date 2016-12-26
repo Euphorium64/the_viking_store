@@ -182,16 +182,40 @@ button {
 footer {
   background-color: #2d2d2d;
   width: 100%;
-  height: 90px;
+  height: 125px;
 }
 
-footer p {
+.contact {
   font: 12px "Comic Sans", Arial, sans-serif;
   color: #F5A860;
+  letter-spacing: 1px;
+  padding-top: 20px;
 }
 
+footer div p {
+  font: 11px "Comic Sans", Arial, sans-serif;
+  color: #FFF;
+  display: inline-block;
+}
 
+footer img {
+  width: 25px;
+  padding: 10px 10px 0 0;
+}
 
+.phone p {
+  position: relative;
+  top: -12px;
+}
 
+.mail {
+  position: relative;
+  right: -16px;
+}
+
+.mail p {
+  position: relative;
+  top: -12px;
+}
 
 
